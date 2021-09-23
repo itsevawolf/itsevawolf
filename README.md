@@ -1,7 +1,7 @@
-- Hello there, I’m @itsevawolf :) 
+- Hello there, @itsevawolf :) 
 - Interested and passionated in Marketing.
 - Currently learning more about coding!
-- I’m looking to collaborate on new business project...
+- I’m looking to collaborate on new business project!
 - Find me on all social media : @evawolf.fr 
 
 <!---
