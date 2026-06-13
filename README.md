@@ -1,7 +1,6 @@
 - Hello there, @itsevawolf :) 
 - Interested and passionated in Marketing.
-- Currently learning more about coding!
-- I’m looking to collaborate on new business project!
+- Currently learning more about coding.
 - Find me on all social media : @evawolf.fr 
 
 <!---
