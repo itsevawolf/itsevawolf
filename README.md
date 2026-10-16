@@ -1,24 +1,38 @@
-# Hey, I'm Eva Wolf 👋
+# Hey, I'm Eva. 👋
 
-**Creative strategist · Founder · Building brands, experiences & software.**
+### Creative brain. Builder energy. Founder mode.
 
-I'm a French founder based in Austin, Texas. I lead [ASK WOLF](https://askwolf.agency), a strategy-led creative studio, and I'm building [SQUADMATE](https://squadmate.io) to make working with agencies feel less like managing tickets and more like collaborating with people.
+French-born, Austin-based. I build **brands, digital experiences, communities, and occasionally the software I wish already existed.**
 
-My work lives where **brand strategy, product experience, growth and technology** meet.
+By day, I run [ASK WOLF](https://askwolf.agency), a strategy-led creative studio. By night (and, let's be real, plenty of mornings), I'm building [SQUADMATE](https://squadmate.io): a more human way for agencies, clients and creative teams to work together.
 
-### What I'm building
+I'm interested in the messy middle between **creative thinking and actually shipping things**.
 
-- **[SQUADMATE](https://squadmate.io)** — a workspace connecting agencies, clients and creative teams. Private platform; selected design experiments shared publicly.
-- **[Squady Lab](https://github.com/itsevawolf/squady-lab)** — explorations of Squady, a little companion making complex creative requests easier.
-- **[ASK WOLF](https://askwolf.agency)** — strategy, branding, digital experiences and growth systems.
-- **[Wild Minds Initiative](https://wildmindsinitiative.com)** — culture, connection and opportunity through real-world experiences.
+---
 
-### What I'm exploring
+### Currently building 🛠️
 
-Human-centered AI · Conversational interfaces · Creative operations · White-label UX · Founder-led product design
+| Project | What's happening |
+| --- | --- |
+| 🍿 **[Squady Lab](https://lab.squadmate.io)** | A live, playful interface experiment starring Squady — try all five moods. [Source →](https://github.com/itsevawolf/squady-lab) |
+| 🧩 **[SQUADMATE](https://squadmate.io)** | Building a better workspace for agency collaboration, briefs and delivery. The production platform stays private. |
+| 🐺 **[ASK WOLF](https://askwolf.agency)** | Strategy, branding, digital experiences and growth systems for ambitious businesses. |
+| ⚡ **[Wild Minds Initiative](https://wildmindsinitiative.com)** | Building spaces for culture, connection, opportunity and ideas that deserve a shot. |
 
-**Currently sharing:** the process of turning a 2018 product idea into a modern software experience, from character concepts to real workflows.
+### Things I geek out about
 
-[Website](https://evawolf.online) · [LinkedIn](https://www.linkedin.com/in/evawolf/) · [SQUADMATE](https://squadmate.io)
+`product UX` · `human-centered AI` · `creative coding` · `conversational interfaces` · `design systems` · `automation` · `brand strategy` · `founder life`
 
-*Building in public doesn't mean exposing private client work. The experiments here are curated demos, not production code.*
+### How I build
+
+**Idea → prototype → test → break something → learn → ship again.**
+
+I believe good technology should make people feel capable, not confused. And good design should make complicated things feel obvious.
+
+This account is where I'll share **small public experiments, behind-the-scenes builds and useful discoveries**. Real client work, production secrets and proprietary platform code stay private.
+
+### Around the internet
+
+[**My corner of the internet ↗**](https://evawolf.online) · [**ASK WOLF ↗**](https://askwolf.agency) · [**Try Squady ↗**](https://lab.squadmate.io) · [**LinkedIn ↗**](https://www.linkedin.com/in/evawolf/)
+
+*Building things I believe should exist. Sometimes with a wolf. Sometimes with a little orange sidekick.*
